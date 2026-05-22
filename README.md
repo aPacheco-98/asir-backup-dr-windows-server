@@ -126,6 +126,13 @@ Este proyecto me ha permitido reforzar competencias propias de administración d
 - Pruebas funcionales.
 - Mantenimiento preventivo y correctivo.
 
+## Demostraciones en vídeo
+
+La carpeta `docs/videos/` incluye un archivo con los enlaces a las demostraciones funcionales del proyecto.
+
+- Demo corta: visión general del entorno implantado.
+- Demo completa: validación más detallada de la infraestructura, copias, restauración y administración remota.
+  
 ## Finalidad
 
 Este repositorio tiene finalidad educativa y de portfolio profesional. El objetivo es mostrar una implantación técnica realista orientada a administración de sistemas, redes y ciberseguridad defensiva en un entorno de pequeña empresa.
